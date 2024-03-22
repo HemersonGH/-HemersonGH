@@ -41,18 +41,13 @@ Professional Qualification: www.linkedin.com/in/hemerson-batista-821759123
 - [Quality Assurance Engineer I (Dock)](https://dock.tech/) - (Mar'21 - Mar'22)
 - [Software Development Engineer I (Dock)](https://dock.tech/) - (Mar'22 - Present)
 
----
 
 ## <b>Github Stats and Programming Languages</b>  <img height="44em" src="https://logospng.org/download/node-js/logo-node-js-1024.png"/> <img height="42em" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png"/> <img height="36em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/>
 
----
-
-<br/>
-<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemersongh&show_icons=true&theme=react&include_all_commits=false&count_private=true&custom_title=Github%20Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemersongh&lang_count=10&layout=compact&theme=dracula" />
-</div>
-<br/>
+  <div> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemersongh&show_icons=true&theme=react&include_all_commits=false&count_private=true&custom_title=Github%20Stats" /> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemersongh&lang_count=10&layout=compact&theme=dracula" />
+  </div>
 
 ---
 
@@ -107,5 +102,4 @@ Below we have the technologies used on the projects mentioned above.
 <img align="left" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=for-the-badge&logoColor=FFF" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFF" />
 <img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFF" />
